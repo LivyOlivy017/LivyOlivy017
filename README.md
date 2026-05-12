@@ -5,8 +5,7 @@
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI  
-- 🚀 Atualmente cursando Sistemas de Informação  
+- 🎓 Técnica em Desenvolvimento de Sistemas pelo SENAI   
 - 💡 Apaixonada por tecnologia  
 - 📱 Foco em desenvolvimento web e mobile  
 
