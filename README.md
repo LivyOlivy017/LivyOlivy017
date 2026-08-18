@@ -12,7 +12,7 @@
 <tr>
 <td width="55%" valign="top">
 
-\`\`\`yaml
+```yaml
 > whoami
 ──────────────────────────────
 nome:       Livia Oliveira
@@ -21,7 +21,7 @@ instituto:  SESI/SENAI · Ensino Técnico Integrado
 stack:      Node.js · PostgreSQL · React
 missão:     transformar café em código
 status:     [ONLINE] 🟢 sempre aprendendo
-\`\`\`
+```
 
 </td>
 <td width="45%" align="center">
@@ -57,23 +57,23 @@ status:     [ONLINE] 🟢 sempre aprendendo
 
 ## 🛰️ transmissão_atual
 
-\`\`\`diff
+```diff
 + construindo um sistema de gestão de academia (Node.js + Express + PostgreSQL)
 + explorando React Native / arquitetura MVVM
 ! sempre com um projeto criativo em paralelo (calculadoras de piadas incluídas 😄)
-\`\`\`
+```
 
 <table align="center" width="100%">
 <tr>
 <td width="50%">
 
-### 🏋️ \`academia.sys\`
+### 🏋️ `academia.sys`
 Sistema de gestão para academia — CRUD completo, backend em Node/Express, dados em PostgreSQL, front em HTML/JS puro.
 
 </td>
 <td width="50%">
 
-### 🎯 \`quiz_da_livinha.exe\`
+### 🎯 `quiz_da_livinha.exe`
 Quiz personalizado full-stack com validação server-side e estética retrô de scrapbook.
 
 </td>
@@ -81,13 +81,13 @@ Quiz personalizado full-stack com validação server-side e estética retrô de 
 <tr>
 <td width="50%">
 
-### 📡 \`redesocial.app\`
+### 📡 `redesocial.app`
 Rede social com feed estilo Instagram/TikTok + chat em tempo real via Socket.io.
 
 </td>
 <td width="50%">
 
-### ➕ \`matemagia.run\`
+### ➕ `matemagia.run`
 Plataforma gamificada de matemática — XP, moedas, JWT e autenticação segura.
 
 </td>
@@ -123,7 +123,7 @@ Plataforma gamificada de matemática — XP, moedas, JWT e autenticação segura
 
 <div align="center">
 
-\`"sempre aprendendo e evoluindo na tecnologia"\` ✨
+`"sempre aprendendo e evoluindo na tecnologia"` ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
