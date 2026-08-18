@@ -8,13 +8,9 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+## 🖥️ whoami
 
 ```yaml
-> whoami
-──────────────────────────────
 nome:       Livia Oliveira
 role:       Dev Full-Stack (em formação)
 instituto:  SESI/SENAI · Ensino Técnico Integrado
@@ -22,15 +18,6 @@ stack:      Node.js · PostgreSQL · React
 missão:     transformar café em código
 status:     [ONLINE] 🟢 sempre aprendendo
 ```
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LivyOlivy017&theme=tokyonight&hide_border=true&layout=compact" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -41,13 +28,6 @@ status:     [ONLINE] 🟢 sempre aprendendo
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,nodejs,express,postgres,git,github,figma,vscode&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=1a1a2e"/>
 
 </div>
 
@@ -63,36 +43,17 @@ status:     [ONLINE] 🟢 sempre aprendendo
 ! sempre com um projeto criativo em paralelo (calculadoras de piadas incluídas 😄)
 ```
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
 ### 🏋️ `academia.sys`
 Sistema de gestão para academia — CRUD completo, backend em Node/Express, dados em PostgreSQL, front em HTML/JS puro.
-
-</td>
-<td width="50%">
 
 ### 🎯 `quiz_da_livinha.exe`
 Quiz personalizado full-stack com validação server-side e estética retrô de scrapbook.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 📡 `redesocial.app`
 Rede social com feed estilo Instagram/TikTok + chat em tempo real via Socket.io.
 
-</td>
-<td width="50%">
-
 ### ➕ `matemagia.run`
 Plataforma gamificada de matemática — XP, moedas, JWT e autenticação segura.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -106,8 +67,6 @@ Plataforma gamificada de matemática — XP, moedas, JWT e autenticação segura
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivyOlivy017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=B47CFF&text_color=c9d1d9" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LivyOlivy017&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=B47CFF&currStreakLabel=B47CFF" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LivyOlivy017&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=B47CFF&point=ffffff" width="90%"/>
 
 </div>
 
