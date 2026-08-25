@@ -1,23 +1,23 @@
-# Oi, eu sou a Livia 👋
+# Hi, I'm Livia Oliveira 👋
 
-### Desenvolvedora Full-Stack em formação | SESI/SENAI
+### Full-Stack Developer in Training | SESI/SENAI
 
 ---
 
 ## 🖥️ whoami
 
 ```yaml
-nome:       Livia Oliveira
-role:       Dev Full-Stack (em formação)
-instituto:  SESI/SENAI · Ensino Técnico Integrado
+name:       Livia Oliveira
+role:       Full-Stack Dev (in training)
+institute:  SESI/SENAI · Integrated Technical Education
 stack:      Node.js · PostgreSQL · React
-missão:     transformar café em código
-status:     [ONLINE] 🟢 sempre aprendendo
+mission:    turning coffee into code
+status:     [ONLINE] 🟢 always learning
 ```
 
 ---
 
-## ⚡ Tecnologias
+## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1a2e)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e)
@@ -29,25 +29,25 @@ status:     [ONLINE] 🟢 sempre aprendendo
 
 ---
 
-## 🛰️ Transmissão atual
+## 🛰️ Current transmission
 
 ```diff
-+ construindo um sistema de gestão de academia (Node.js + Express + PostgreSQL)
-+ explorando React Native / arquitetura MVVM
-! sempre com um projeto criativo em paralelo (calculadoras de piadas incluídas 😄)
++ building a gym management system (Node.js + Express + PostgreSQL)
++ exploring React Native / MVVM architecture
+! always running a creative side project (joke calculators included 😄)
 ```
 
 ### 🏋️ `academia.sys`
-Sistema de gestão para academia — CRUD completo, backend em Node/Express, dados em PostgreSQL, front em HTML/JS puro.
+Gym management system — full CRUD, Node/Express backend, PostgreSQL data, plain HTML/JS frontend.
 
 ### 🎯 `quiz_da_livinha.exe`
-Quiz personalizado full-stack com validação server-side e estética retrô de scrapbook.
+Personalized full-stack quiz app with server-side validation and a retro scrapbook aesthetic.
 
 ### 📡 `redesocial.app`
-Rede social com feed estilo Instagram/TikTok + chat em tempo real via Socket.io.
+Social network with an Instagram/TikTok-style feed + real-time chat via Socket.io.
 
 ### ➕ `matemagia.run`
-Plataforma gamificada de matemática — XP, moedas, JWT e autenticação segura.
+Gamified math platform — XP, coins, JWT, and secure authentication.
 
 ---
 
@@ -59,4 +59,4 @@ Plataforma gamificada de matemática — XP, moedas, JWT e autenticação segura
 
 ---
 
-> "sempre aprendendo e evoluindo na tecnologia" ✨
+> "always learning and evolving in tech" ✨
