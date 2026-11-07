@@ -51,6 +51,26 @@ Gamified math platform — XP, coins, JWT, and secure authentication.
 
 ---
 
+## 🧊 contributions.3d
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions in 3D" />
+</p>
+
+---
+
+## 📊 stats.log
+
+<p align="center">
+  <img src="./metrics.isocalendar.svg" alt="Isometric commit calendar" />
+</p>
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub stats" />
+</p>
+
+---
+
 ## 🔗 Uplink
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/liviaoliveira-assis)
