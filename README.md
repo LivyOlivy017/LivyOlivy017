@@ -4,7 +4,7 @@
 
 ---
 
-## 🖥️ whoami
+## Whoami
 
 ```yaml
 name:       Livia Oliveira
@@ -17,7 +17,7 @@ status:     [ONLINE] 🟢 always learning
 
 ---
 
-## ⚡ Technologies
+## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1a1a2e)
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e)
@@ -29,7 +29,7 @@ status:     [ONLINE] 🟢 always learning
 
 ---
 
-## 🛰️ Current transmission
+## Current transmission
 
 ```diff
 + building a gym management system (Node.js + Express + PostgreSQL)
