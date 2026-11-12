@@ -57,6 +57,13 @@ Gamified math platform — XP, coins, JWT, and secure authentication.
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions in 3D" />
 </p>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake.svg" />
+</picture>
 
 ---
 
