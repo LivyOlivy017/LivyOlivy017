@@ -29,12 +29,11 @@ status:     [ONLINE] 🟢 always learning
 
 ---
 
-## Current transmission
-
-```diff
-+ building a gym management system (Node.js + Express + PostgreSQL)
-+ exploring React Native / MVVM architecture
-! always running a creative side project (joke calculators included :)
+```bash
+$ whoami --now
+> building academia.sys ........ [ok]
+> exploring React Native ....... [in progress]
+> side project: calculators .... [always running]
 ```
 
 ### 🏋️ [`academia.sys`](https://github.com/LivyOlivy017/Academia-Digao.git)
