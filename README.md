@@ -52,10 +52,12 @@ Gamified math platform — XP, coins, JWT, and secure authentication.
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LivyOlivy017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivyOlivy017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,postgres,git,github&theme=dark" alt="Stack" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LivyOlivy017&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+</p>
 ---
 
 
