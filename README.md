@@ -34,20 +34,14 @@ status:     [ONLINE] 🟢 always learning
 ```diff
 + building a gym management system (Node.js + Express + PostgreSQL)
 + exploring React Native / MVVM architecture
-! always running a creative side project (joke calculators included 😄)
+! always running a creative side project (joke calculators included :)
 ```
 
-### 🏋️ `academia.sys`
-Gym management system — full CRUD, Node/Express backend, PostgreSQL data, plain HTML/JS frontend.
+### 🏋️ [`academia.sys`](https://github.com/LivyOlivy017/Academia-Digao.git)
 
-### 🎯 `quiz_da_livinha.exe`
-Personalized full-stack quiz app with server-side validation and a retro scrapbook aesthetic.
+### 🎯 [`quiz_da_livinha.exe`](https://github.com/LivyOlivy017/Quiz-Com-Perguntas-e-Respostas-Corretas)
 
-### 📡 `redesocial.app`
-Social network with an Instagram/TikTok-style feed + real-time chat via Socket.io.
-
-### ➕ `matemagia.run`
-Gamified math platform — XP, coins, JWT, and secure authentication.
+### 📡 [`redesocial.app`](https://github.com/LivyOlivy017/Rede-Social-.git)
 
 ---
 
@@ -57,7 +51,7 @@ Gamified math platform — XP, coins, JWT, and secure authentication.
 
 ---
 
-
+## 🐍 contributions.snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake.svg" />
