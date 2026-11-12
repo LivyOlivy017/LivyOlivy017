@@ -52,12 +52,9 @@ Gamified math platform — XP, coins, JWT, and secure authentication.
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,postgres,git,github&theme=dark" alt="Stack" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=LivyOlivy017&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
 </p>
+
 ---
 
 
