@@ -51,7 +51,7 @@ status:     [ONLINE] 🟢 always learning
 
 ---
 
-## 🐍 contributions.snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake.svg" />
@@ -60,12 +60,14 @@ status:     [ONLINE] 🟢 always learning
 
 ---
 
-## 🔗 Uplink
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/liviaoliveira-assis)
-[![Instagram](https://img.shields.io/badge/Instagram-follow-B47CFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/livy.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-message-00F5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:seuemail@gmail.com)
+
+<p align="center">
+  <a href="https://linkedin.com/in/liviaoliveira-assis"><img src="https://img.shields.io/badge/LinkedIn-connect-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/livy.dev"><img src="https://img.shields.io/badge/Instagram-follow-B47CFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
+  <a href="mailto:liviaoliv.assis@gmail.com"><img src="https://img.shields.io/badge/Gmail-message-00F5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Gmail" /></a>
+</p>
 
 ---
 
-> "always learning and evolving in tech" ✨
+  <p align="center"><i>"always learning and evolving in tech" ✨</i></p>
