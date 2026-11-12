@@ -51,13 +51,13 @@ Gamified math platform — XP, coins, JWT, and secure authentication.
 
 ---
 
-## 🧊 contributions.3d
-
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions in 3D" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LivyOlivy017&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LivyOlivy017&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LivyOlivy017/snake/output/github-snake-dark.svg" />
